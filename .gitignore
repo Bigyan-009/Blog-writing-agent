@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated output
+images/
+
+# Generated blog posts (keep README)
+*.md
+!README.md
